@@ -1,4 +1,4 @@
 # Lee_Algorithm_Python
-Copy repository locally
-run lee_algorithm.py
-Dependencies needed: python, Tkinter
+% Copy repository locally
+% Run lee_algo.py
+% Dependencies needed: python, Tkinter
