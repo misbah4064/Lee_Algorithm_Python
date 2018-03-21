@@ -4,4 +4,4 @@
 
 2 Run lee_algo.py
 
-3 Dependencies needed: python, Tkinter
+Dependencies needed: python, Tkinter
